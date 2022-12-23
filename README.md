@@ -1,1 +1,1 @@
-# Student-management-application-with-python
+My first somewhat larger project, a student management application with tkinter
